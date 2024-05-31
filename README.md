@@ -1,3 +1,5 @@
+![Heart Failure Plot](image/heart_failure_plot..jpeg)
+
 
 # Heart Failure Prediction
 
